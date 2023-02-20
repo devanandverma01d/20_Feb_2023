@@ -13,7 +13,7 @@ export default class Register extends Component {
         return (
             //Every function return something
             <>
-                <main>Register-Main area</main>
+                <main><h1>Register-Main area</h1></main>
             </>
         )
     }

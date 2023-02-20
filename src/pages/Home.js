@@ -12,7 +12,7 @@ export default function Home() {
     return (
         //every function returnsomething
         <>
-            <main>Home-Main area</main>
+            <main><h1>Home-Main area</h1></main>
         </>
 
     )

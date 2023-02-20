@@ -12,7 +12,7 @@ let Login = () => {
     return (
         //Every function return something
         <>
-            <main>login-Main area</main>
+            <main><h1>Login-Main area</h1></main>
         </>
     )
 }

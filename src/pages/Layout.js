@@ -11,9 +11,9 @@ export default function Layout() {
     //3.Return stetment
     return (
         <>
-            <header>Header</header>
+            <header><h1>This is Header Sction</h1></header>
             <Outlet />
-            <footer>Footer</footer>
+            <footer><h1>This is Footer Sction</h1></footer>
         </>
     )
 }
